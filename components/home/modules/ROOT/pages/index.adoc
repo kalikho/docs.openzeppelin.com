@@ -68,8 +68,6 @@ Join the OpenZeppelin community in https://forum.openzeppelin.com/[our forum] to
 
 If you are using OpenZeppelin contracts, tools, or libraries in your project, share the love with the rest of the community by adding a badge to your `README`! Let your audience know that your system is built with the most secure components available.
 
-
-
 ```markdown
-[![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
+ [![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
 ```
