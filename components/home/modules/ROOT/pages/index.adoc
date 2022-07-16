@@ -72,5 +72,5 @@ image::https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF[built-with 
 
 
 ```markdown
-[![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
+ [![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
 ```
